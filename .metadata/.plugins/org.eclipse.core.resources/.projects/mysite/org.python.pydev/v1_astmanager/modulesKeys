@@ -1,0 +1,7 @@
+MODULES_MANAGER_V3
+manage|C:\Workspaces\Workspace_Django\mysite\manage.py
+mysite.__init__|C:\Workspaces\Workspace_Django\mysite\mysite\__init__.py
+mysite.asgi|C:\Workspaces\Workspace_Django\mysite\mysite\asgi.py
+mysite.settings|C:\Workspaces\Workspace_Django\mysite\mysite\settings.py
+mysite.urls|C:\Workspaces\Workspace_Django\mysite\mysite\urls.py
+mysite.wsgi|C:\Workspaces\Workspace_Django\mysite\mysite\wsgi.py

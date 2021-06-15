@@ -1,0 +1,88 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Workspaces\Workspace_Django\.metadata\.plugins\org.eclipse.core.resources\.projects\hello\com.python.pydev.analysis\v2_indexcache
+hello.settings|1623667600039800000|C:\Workspaces\Workspace_Django\hello\hello\settings.py
+hello02.urls|1623671010346700000|C:\Workspaces\Workspace_Django\hello\hello02\urls.py
+hello.__init__|1623661867976993000|C:\Workspaces\Workspace_Django\hello\hello\__init__.py
+hello.asgi|1623661867967991000|C:\Workspaces\Workspace_Django\hello\hello\asgi.py
+hello.wsgi|1623661867975003000|C:\Workspaces\Workspace_Django\hello\hello\wsgi.py
+hello02.views|1623671124954271000|C:\Workspaces\Workspace_Django\hello\hello02\views.py
+hello01.tests|1623665944804873000|C:\Workspaces\Workspace_Django\hello\hello01\tests.py
+hello02.__init__|1623667459191201000|C:\Workspaces\Workspace_Django\hello\hello02\__init__.py
+hello01.migrations.__init__|1623665944813834000|C:\Workspaces\Workspace_Django\hello\hello01\migrations\__init__.py
+hello01.apps|1623665944800873000|C:\Workspaces\Workspace_Django\hello\hello01\apps.py
+hello01.models|1623665944802870000|C:\Workspaces\Workspace_Django\hello\hello01\models.py
+hello02.models|1623667459182205000|C:\Workspaces\Workspace_Django\hello\hello02\models.py
+manage|1623661867964963000|C:\Workspaces\Workspace_Django\hello\manage.py
+hello.views|1623665329543152000|C:\Workspaces\Workspace_Django\hello\hello\views.py
+hello02.migrations.__init__|1623667459196216000|C:\Workspaces\Workspace_Django\hello\hello02\migrations\__init__.py
+hello01.__init__|1623665944809858000|C:\Workspaces\Workspace_Django\hello\hello01\__init__.py
+hello02.tests|1623667459186210000|C:\Workspaces\Workspace_Django\hello\hello02\tests.py
+hello01.urls|1623667446688450000|C:\Workspaces\Workspace_Django\hello\hello01\urls.py
+hello01.admin|1623665944797868000|C:\Workspaces\Workspace_Django\hello\hello01\admin.py
+hello02.apps|1623667459176203000|C:\Workspaces\Workspace_Django\hello\hello02\apps.py
+hello02.admin|1623667459168201000|C:\Workspaces\Workspace_Django\hello\hello02\admin.py
+hello.urls|1623669875931248000|C:\Workspaces\Workspace_Django\hello\hello\urls.py
+hello01.views|1623667149956949000|C:\Workspaces\Workspace_Django\hello\hello01\views.py
+-- END DISKCACHE
+-- START DICTIONARY
+26
+21=C:\Workspaces\Workspace_Django\hello\hello01\urls.py
+23=C:\Workspaces\Workspace_Django\hello\hello02\urls.py
+6=hello.wsgi
+12=hello02.views
+10=hello01.apps
+5=C:\Workspaces\Workspace_Django\hello\hello\wsgi.py
+16=hello.views
+26=Hello01Config
+14=hello02.apps
+20=hello.urls
+4=hello.settings
+9=C:\Workspaces\Workspace_Django\hello\hello01\apps.py
+17=C:\Workspaces\Workspace_Django\hello\manage.py
+24=hello02.urls
+15=C:\Workspaces\Workspace_Django\hello\hello\views.py
+1=C:\Workspaces\Workspace_Django\hello\hello01\views.py
+8=hello.asgi
+13=C:\Workspaces\Workspace_Django\hello\hello02\apps.py
+3=C:\Workspaces\Workspace_Django\hello\hello\settings.py
+18=manage
+7=C:\Workspaces\Workspace_Django\hello\hello\asgi.py
+25=Hello02Config
+19=C:\Workspaces\Workspace_Django\hello\hello\urls.py
+22=hello01.urls
+11=C:\Workspaces\Workspace_Django\hello\hello02\views.py
+2=hello01.views
+-- END DICTIONARY
+-- START TREE 1
+24
+Re|1|Re!1^7#5*18@
+all|1|ALLOWED_HOSTS!3^28#1*35@
+app|2|application!5^16#1*51@application!7^16#1*67@
+aut|1|AUTH_PASSWORD_VALIDATORS!3^100#1*35@
+bas|1|BASE_DIR!3^16#1*35@
+dat|1|DATABASES!3^81#1*35@
+deb|1|DEBUG!3^26#1*35@
+def|1|DEFAULT_AUTO_FIELD!3^125#1*35@
+hel|3|Hello01Config!9^4#7*81@hello!11^4#5*98@Hello02Config!13^4#7*113@
+ind|2|index!15^3#5*130@index!1^4#5*18@
+ins|1|INSTALLED_APPS!3^40#1*35@
+lan|1|LANGUAGE_CODE!3^106#1*35@
+mai|1|main!17^7#5*146@
+mid|1|MIDDLEWARE!3^50#1*35@
+myt|1|Mytest!15^6#5*130@
+roo|1|ROOT_URLCONF!3^52#1*35@
+sec|1|SECRET_KEY!3^23#1*35@
+sta|1|STATIC_URL!3^120#1*35@
+tem|1|TEMPLATES!3^68#1*35@
+tim|1|TIME_ZONE!3^108#1*35@
+url|3|urlpatterns!19^28#1*163@urlpatterns!21^7#1*179@urlpatterns!23^8#1*195@
+use|3|USE_I18N!3^110#1*35@USE_TZ!3^114#1*35@USE_L10N!3^112#1*35@
+var|2|var02!11^11#5*98@var01!11^7#5*98@
+wsg|1|WSGI_APPLICATION!3^70#1*35@
+-- END TREE
+-- START TREE 2
+2
+def|2|default_auto_field!25&13^5#5*115@default_auto_field!26&9^5#5*83@
+nam|2|name!26&9^6#5*83@name!25&13^6#5*115@
+-- END TREE
