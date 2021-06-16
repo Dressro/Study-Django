@@ -18,3 +18,12 @@ def var02(request):
 
 def forLoop(request):
     return render(request, 'for.html', {'numbers':range(1, 10)})
+
+def if01(request):
+    return render(request,'if01.html',{"user":{"id":"test","name":"최태준"}})
+
+def if02(request):
+    return render(request,'if02.html',{'role':'student'})
+
+def href(request):
+    return render(request,'href.html')
