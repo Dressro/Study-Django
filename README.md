@@ -39,9 +39,13 @@ python manage.py shell
 dbtest에 값을 넣는다
 
 from dbtest.models import Myboard
+
 from django.utils import timezone
+
 test = Myboard(myname='admin',mytitle='test',mycontent='test0123',mydate=timezone.now())
+
 test.save()
+
 Myboard.objects.all()
 
 
